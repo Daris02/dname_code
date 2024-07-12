@@ -1,2 +1,2 @@
 def hello():
-    print("Hello, code made by D. Name Code! With GitHub Action")
+    print("D. Name Code is successfully publish on PyPi with GitHub Action")
